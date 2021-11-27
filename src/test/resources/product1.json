@@ -1,0 +1,37 @@
+{
+  "_id": {
+    "$oid": "61a27a691c3eac9f2c7e61fa"
+  },
+  "title": "Samsung Galaxy M21 2021 Edition (Charcoal Black, 4GB RAM, 64GB Storage) | FHD+ sAMOLED | 6 Months Free Screen Replacement for Prime (SM-M215GZKDINS)",
+  "image_link": "https://m.media-amazon.com/images/I/811lrGbXwIL._SL1500_.jpg",
+  "description": "<ul> <li>16.21 centimeters (6.4-inch) Super AMOLED - Infinity U-cut display, FHD+ resolution with 60Hz Refresh rate, protected by Gorilla Glass 3</li> <li>48MP+8MP+5MP Triple camera setup-48MP (F 2.0) main camera + 8MP (F2.2) Ultra wide camera + 5MP (F2.2) depth camera | 20MP (F2.2) front camera</li> <li>Monster 6000 mAh Battery | Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 512GB| SIM 1 + SIM 2 + MicroSD</li> <li>Android 11, OneUI 3.1 Core operating system with Exynos 9611 Octa Core Processor 2.3GHz,1.7GHz 6000mAH lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase </li> </ul>",
+  "other_properties": [{
+    "brand": "Samsung"
+  }, {
+    "form_factor": "Bar"
+  }, {
+    "wireless_carrier": "unlocked for all carriers"
+  }, {
+    "memory_storage_capacity": "64 GB"
+  }],
+  "tags": "Mobile, best mobile, samsung phone",
+  "variants": [{
+    "price": "12999.00",
+    "currency_code": "INR",
+    "other_properties": [{
+      "memory": "32 GB"
+    }]
+  }, {
+    "price": "14999.00",
+    "currency_code": "INR",
+    "other_properties": [{
+      "memory": "64 GB"
+    }]
+  }],
+  "options": [{
+    "name": "Color",
+    "values": ["Charcoal Black", "Arctic Blue"],
+    "image_links": ["https://m.media-amazon.com/images/I/811lrGbXwIL._SL1500_.jpg", "https://m.media-amazon.com/images/I/811lrGbXwIL._SL1500_.jpg"],
+    "other_properties": []
+  }]
+}
